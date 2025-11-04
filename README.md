@@ -1,11 +1,11 @@
 # Welcome To My CyberSecurity Portfolio!!
-
+Hi, my name is Oliver, and i am a long time tech enthusiast with a love for learning that fuels my dream to become a senior cybersecurity analyst. I consider myself an analytical thinker because of my ability to troubleshoot problems and effectively find a solution.
 <br>
 
 ## 👨🏽‍💻 About Me
 - I'm currently working on acquiring my CompTIA Security+ certification.<br>
-- My long term goal & passion is to become a Senior Level Cybersecurity Professional.<br>
-- I have a strong background in the Computer Science field & train daily to grow my knowledge of the field.<br>
+- Long term goal is to acquire as many tech certifications as i can and master the cybersecurity field.<br>
+- Fun Fact? My first desktop was at 12 years old &  i have trained daily eversince to grow my knowledge in many computer related professions.<br>
 
 <br>
 
@@ -15,8 +15,8 @@
 <br>
 
 ## 💻 My Cyber Security Projects:
-[1. Security Audit](https://www.google.com)<br>
-[2. Cisco Packet Tracer](https://www.google.com)<br>
+1. [Security Audit](https://www.google.com)<br>
+2. [Cisco Packet Tracer](https://www.google.com)<br>
 <Br>
 
 ## 🦾 Tech Stack:
